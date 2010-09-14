@@ -1,5 +1,8 @@
 For dicking around in clojure, trying to understand lispspsss.
 
-This is the best resource I've found so far
+This are the best resources I've found so far
 
-http://en.wikibooks.org/wiki/Learning_Clojure
+overview of some concepts - http://en.wikibooks.org/wiki/Learning_Clojure
+SICP adapted for Clojure - http://sicpinclojure.com/
+a lab writtin in clojure and run in a repl - http://github.com/relevance/labrepl
+good intro to some basics - http://www.ibm.com/developerworks/opensource/library/os-eclipse-clojure/
